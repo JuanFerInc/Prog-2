@@ -1,0 +1,84 @@
+1>#  pruebas para funciones de uso_tads.
+2>Ordenada.
+3>Ordenada.
+4>Ordenada.
+5>No ordenada.
+6>No ordenada.
+7>No ordenada.
+8>Estructuras reiniciadas.
+9>
+10>Agregado.
+11>Agregado.
+12>Agregado.
+13>Agregado.
+14>a 
+15>b a 
+16>c b a 
+17>d c b a 
+18>c b 
+19>d c b 
+20>d c 
+21>d 
+22>
+23>d c b 
+24>a.
+25>Estructuras reiniciadas.
+26>
+27>Se incluyó.
+28>a 
+29>a 
+30>
+31>Se incluyó.
+32>b a 
+33>a 
+34>b 
+35>Se incluyó.
+36>Se incluyó.
+37>Se incluyó.
+38>p m c b a 
+39>m c b a 
+40>p m 
+41>p m c 
+42>m 
+43>Estructuras reiniciadas.
+44>
+45>Insertado.
+46>m 
+47>Insertado.
+48>Insertado.
+49>g r 
+m 
+50>Insertado.
+51>Insertado.
+52>d i 
+g r 
+m 
+53>Insertado.
+54>Insertado.
+55>b f 
+d i 
+g r 
+m 
+56>Insertado.
+57>Insertado.
+58>Insertado.
+59>Insertado.
+60>Insertado.
+61>Insertado.
+62>Insertado.
+63>Insertado.
+64>a 
+b f h k n p s 
+d i o t 
+g r 
+m 
+65>Insertado.
+66>Insertado.
+67>No insertado.
+68>Insertado.
+69>a c e 
+b f h k n p s z 
+d i o t 
+g r 
+m 
+70>Fin.

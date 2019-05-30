@@ -1,0 +1,46 @@
+1>#  pruebas para conjunto , rango_en_conjunto.
+2>cnj está vacio.
+3>Se incluyó.
+4>Se incluyó.
+5>Se incluyó.
+6>Se incluyó.
+7>Se incluyó.
+8>(0,a)(0,b)(0,c)(0,d)(0,e)
+9>Pertenece.
+10>No pertenece.
+11>Excluido.
+12>Excluido.
+13>Excluido.
+14>Excluido.
+15>Excluido.
+16>
+17>cnj está vacio.
+18>(0,a)(0,b)(0,c)(0,d)(0,e)
+19>cnj NO está vacio.
+20>(0,a)(0,b)(0,c)(0,d)(0,e)
+21>Pertenece.
+22>No pertenece.
+23>(0,a)(0,b)(0,c)(0,d)(0,e)
+24>(0,a)(0,b)(0,c)(0,d)(0,e)(0,f)(0,g)(0,l)
+25>(0,a)(0,b)(0,c)(0,d)(0,e)(0,f)(0,g)
+26>Estructuras reiniciadas.
+27>
+28>
+29>
+30>(0,a)(0,b)(0,c)(0,d)(0,e)
+31>(0,a)(0,b)(0,c)(0,d)(0,e)
+32>
+33>(0,a)(0,b)
+34>Estructuras reiniciadas.
+35>(0,a)(0,b)(0,c)(0,d)(0,e)
+36>
+37>(0,a)(0,b)(0,c)(0,d)(0,e)
+38>(0,c)(0,d)(0,e)
+39>e d c b a 
+40>b 
+41>d c b 
+42>
+43>e d 
+44>e 
+45>
+46>Fin.

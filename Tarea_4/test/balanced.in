@@ -1,0 +1,7 @@
+crear_balanceado .
+crear_balanceado (5,a).
+crear_balanceado (4,d) (5,e).
+crear_balanceado (7,g) (8,h) (9,i).
+
+es_AVL
+Fin

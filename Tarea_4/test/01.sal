@@ -1,0 +1,75 @@
+1>#  pruebas para cola_binarios.
+2>cb está vacia.
+3>cb está vacía.
+4>cb está vacía.
+5>Encolado.
+6>cb NO está vacia.
+7>
+-(3,c)
+(2,b)
+-(1,a)
+8>Encolado.
+9>Encolado.
+10>Encolado.
+11>cb NO está vacia.
+12>
+-(3,c)
+(2,b)
+-(1,a)
+13>Encolado.
+14>Encolado.
+15>Encolado.
+16>cb NO está vacia.
+17>
+-(3,c)
+(2,b)
+-(1,a)
+18>Desencolado.
+19>
+-(31,c)
+(21,b)
+-(11,a)
+20>Desencolado.
+21>
+(5,e)
+-(4,d)
+22>Desencolado.
+23>
+(6,f)
+24>Desencolado.
+25>Encolado.
+26>Encolado.
+27>cb NO está vacia.
+28>
+-(10,j)
+(9,i)
+-(8,h)
+--(7,g)
+29>Desencolado.
+30>
+-(10,j)
+(9,i)
+-(8,h)
+--(7,g)
+31>Desencolado.
+32>
+--(18,r)
+-(17,q)
+--(16,p)
+(15,o)
+--(14,n)
+-(13,m)
+--(12,l)
+---(11,k)
+33>Desencolado.
+34>
+35>Desencolado.
+36>cb NO está vacia.
+37>
+-(10,j)
+(9,i)
+-(8,h)
+--(7,g)
+38>Desencolado.
+39>cb está vacia.
+40>Fin.

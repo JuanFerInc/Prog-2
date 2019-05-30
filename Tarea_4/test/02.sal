@@ -1,0 +1,31 @@
+1>#  pruebas para conjunto.
+2>cnj está vacio.
+3>No pertenece.
+4>Excluido.
+5>
+6>Se incluyó.
+7>cnj NO está vacio.
+8>No pertenece.
+9>Excluido.
+10>(0,a)
+11>(0,a)(0,b)(0,c)(0,d)(0,e)
+12>cnj NO está vacio.
+13>Pertenece.
+14>No pertenece.
+15>Excluido.
+16>(0,a)(0,c)(0,d)(0,e)
+17>(0,a)(0,b)(0,c)(0,d)(0,e)
+18>(0,a)(0,c)(0,d)(0,e)(0,f)(0,g)(0,l)
+19>(0,a)(0,c)(0,d)(0,e)
+20>Estructuras reiniciadas.
+21>
+22>
+23>
+24>(0,a)(0,b)(0,c)(0,d)(0,e)
+25>(0,b)(0,d)
+26>(0,a)(0,c)(0,e)
+27>(0,b)(0,c)(0,e)
+28>(0,a)(0,d)
+29>
+30>(0,a)(0,b)(0,c)(0,d)(0,e)
+31>Fin.

@@ -1,0 +1,31 @@
+1>#  pruebas para iterador.
+2>Actual de it NO está definida.
+3>Reiniciado.
+4>Actual de it NO está definida.
+5>Avanzado.
+6>Actual de it NO está definida.
+7>
+8>Agregado.
+9>Actual de it NO está definida.
+10>Avanzado.
+11>(0,abc)
+12>Reiniciado.
+13>abc.
+14>No hay siguiente.
+15>Avanzado.
+16>Agregado.
+17>Agregado.
+18>Actual de it NO está definida.
+19>Reiniciado.
+20>abc.
+21>Hay siguiente.
+22>Avanzado.
+23>def.
+24>Hay siguiente.
+25>Avanzado.
+26>ghi.
+27>No hay siguiente.
+28>Avanzado.
+29>Actual no definida.
+30>(0,abc)(0,def)(0,ghi)
+31>Fin.

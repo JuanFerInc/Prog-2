@@ -1,0 +1,44 @@
+1>#  pruebas para iterador , inverso_de_iter.
+2>Actual de it NO está definida.
+3>Actual no definida.
+4>Reiniciado.
+5>
+6>Agregado.
+7>Actual de it NO está definida.
+8>Actual no definida.
+9>(0,uno)
+10>Avanzado.
+11>Actual de it NO está definida.
+12>Reiniciado.
+13>No hay siguiente.
+14>uno 
+15>
+16>Agregado.
+17>Agregado.
+18>Agregado.
+19>Agregado.
+20>Actual de it está definida.
+21>(0,uno)(0,dos)(0,tres)(0,cuatro)(0,cinco)
+22>uno 
+23>tres dos 
+24>dos 
+25>cinco cuatro tres dos uno 
+26>Reiniciado.
+27>uno.
+28>Hay siguiente.
+29>Avanzado.
+30>dos.
+31>Hay siguiente.
+32>(0,uno)(0,dos)(0,tres)(0,cuatro)(0,cinco)
+33>cinco cuatro tres dos 
+34>cinco cuatro tres dos uno 
+35>cinco 
+36>Comando no reconocido.
+37>#  pruebas para esta_ordenada_por_frase.
+38>Ordenada.
+39>Ordenada.
+40>Ordenada.
+41>No ordenada.
+42>No ordenada.
+43>No ordenada.
+44>Fin.

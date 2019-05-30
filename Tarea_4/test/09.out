@@ -1,0 +1,70 @@
+1>#  pruebas para crear_balanceado, imprimir_por_niveles, cola_binarios.
+2>
+3>
+(1,a)
+4>a 
+5>Cadena no ordenada.
+6>
+(2,b)
+-(2,a)
+7>a 
+b 
+8>
+-(3,c)
+(2,b)
+-(1,a)
+9>a c 
+b 
+10>
+-(14,d)
+(13,c)
+-(12,b)
+--(11,a)
+11>a 
+b d 
+c 
+12>
+-(5,e)
+--(42,d)
+(3,c)
+-(22,b)
+--(1,a)
+13>a d 
+b e 
+c 
+14>
+-(6,f)
+--(5,e)
+(7,d)
+--(3,c)
+-(6,b)
+--(5,a)
+15>a c e 
+b f 
+d 
+16>Estructuras reiniciadas.
+17>cb está vacía.
+18>cb está vacia.
+19>cb está vacía.
+20>Encolado.
+21>Encolado.
+22>Encolado.
+23>Encolado.
+24>Encolado.
+25>
+-(3,c)
+(2,b)
+-(1,a)
+26>cb NO está vacia.
+27>Desencolado.
+28>Desencolado.
+29>Desencolado.
+30>Desencolado.
+31>
+-(10,j)
+(0,i)
+-(7,h)
+--(5,g)
+32>Desencolado.
+33>cb está vacia.
+34>Fin.

@@ -1,0 +1,8 @@
+
+insertar_en_binario (7,f)
+es_AVL
+insertar_en_binario (5,d)
+insertar_en_binario (3,b)
+es_AVL
+Fin
+

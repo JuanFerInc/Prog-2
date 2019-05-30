@@ -1,0 +1,11 @@
+insertar_al_final (0,a)
+insertar_al_final (120,d)
+insertar_al_final (10,e)
+ordenar
+mezcla .
+mezcla (1,b) (2,c) (3,c) (4,f) .
+reiniciar
+mezcla .
+mezcla (1,b) (2,c) (3,c) (4,f) .
+imprimir_cadena
+Fin

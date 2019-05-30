@@ -1,0 +1,27 @@
+imprimir_por_niveles
+insertar_en_binario (12,m) .
+imprimir_por_niveles
+insertar_en_binario (6,g) .
+insertar_en_binario (15,r) .
+imprimir_por_niveles
+insertar_en_binario (3,d) .
+insertar_en_binario (7,i) .
+imprimir_por_niveles
+insertar_en_binario (2,b) .
+insertar_en_binario (5,f) .
+imprimir_por_niveles
+insertar_en_binario (11,h) .
+insertar_en_binario (12,k) .
+insertar_en_binario (1,a) .
+insertar_en_binario (14,o) .
+insertar_en_binario (18,n) .
+insertar_en_binario (19,p) .
+insertar_en_binario (16,t) .
+insertar_en_binario (1,s) .
+imprimir_por_niveles
+insertar_en_binario (2,z) .
+insertar_en_binario (2,c) .
+insertar_en_binario (1,a) .
+insertar_en_binario (4,e) .
+imprimir_por_niveles
+Fin
